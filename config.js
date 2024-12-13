@@ -21,10 +21,10 @@ global.github=process.env.GITHUB|| "https://github.com/Dartondave/Suhail-Md-V5";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://raw.githubusercontent.com/Dartondave/Suhail-Md-V5/main/lib/assets/sukuna.jpeg?raw=true" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "`POWERED BY BLESSED-MD`" 
+global.caption = process.env.CAPTION || global.caption || "`POWERED BY AMMY-MD`" 
 
 
-global.devs = "2347040694847" // Developer Contact
+global.devs = "2347025836462" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
 global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2347040694847";
 
@@ -77,7 +77,7 @@ module.exports = {
   author : process.env.PACK_AUTHER|| "AMMY",
   packname: process.env.PACK_NAME || "AMMY_MD",
   botname : process.env.BOT_NAME  || "`AMMY_MD`",
-  ownername:process.env.OWNER_NAME|| "`BLESSED`",
+  ownername:process.env.OWNER_NAME|| "`AMMY`",
 
 
   errorChat : process.env.ERROR_CHAT || "",
