@@ -49,14 +49,14 @@ global.waPresence= process.env.WAPRESENCE ||  "composing" ; // 'unavailable' | '
 //========================= [ AUTO READ MSGS & CMDS ] =========================\\
 global.readcmds = process.env.READ_COMMAND || "false"
 global.readmessage = process.env.READ_MESSAGE || "false"
-global.readmessagefrom = process.env.READ_MESSAGE_FROM || "null,923xxxxxxxx";
+global.readmessagefrom = process.env.READ_MESSAGE_FROM || "null,2347025836462";
 
 
 //========================= [ AUTO SAVE & READ STATUS ] =========================\\
 global.read_status = process.env.AUTO_READ_STATUS || "false"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
-global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "923184474176,923xxxxxxxx";
+global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,2347025836462";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "2347025836462,2347025836462";
 
 global.api_smd = "https://api-smd.onrender.com" //  || "https://api-smd-1.vercel.app" // expires
 global.scan = "https://suhail-md-vtsf.onrender.com";
@@ -72,11 +72,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "1.3.9",
-  caption : global.caption || "" , // ```『 POWERED BY BLESSED-MD 』```", //*『𝕤ᴜʙ𝕤ᴄʀɪʙᴇ • BLESSED TECH』*\n youtube.com/@suhailtechinfo0"),
+  caption : global.caption || "" , // ```『 POWERED BY AMMY-MD 』```", //*『𝕤ᴜʙ𝕤ᴄʀɪʙᴇ • AMMY TECH』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "BLESSED",
-  packname: process.env.PACK_NAME || "BLESSED_MD",
-  botname : process.env.BOT_NAME  || "`BLESSED_MD`",
+  author : process.env.PACK_AUTHER|| "AMMY",
+  packname: process.env.PACK_NAME || "AMMY_MD",
+  botname : process.env.BOT_NAME  || "`AMMY_MD`",
   ownername:process.env.OWNER_NAME|| "`BLESSED`",
 
 
