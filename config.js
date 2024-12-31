@@ -21,7 +21,7 @@ global.github=process.env.GITHUB|| "https://github.com/Dartondave/Suhail-Md-V5";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://raw.githubusercontent.com/Dartondave/Suhail-Md-V5/main/lib/assets/sukuna.jpeg?raw=true" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "`POWERED BY AMMY-MD`" 
+global.caption = process.env.CAPTION || global.caption || "`Hail Amy you sluts`" 
 
 
 global.devs = "2347025836462" // Developer Contact
