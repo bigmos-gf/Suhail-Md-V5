@@ -74,10 +74,10 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.9",
   caption : global.caption || "" , // ```『 POWERED BY BLESSED-MD 』```", //*『𝕤ᴜʙ𝕤ᴄʀɪʙᴇ • BLESSED TECH』*\n youtube.com/hailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "BLESSED",
-  packname: process.env.PACK_NAME || "BLESSED_MD",
-  botname : process.env.BOT_NAME  || "`BLESSED_MD`",
-  ownername:process.env.OWNER_NAME|| "`BLESSED`",
+  author : process.env.PACK_AUTHER|| "٭*AMY𖤐",
+  packname: process.env.PACK_NAME || "HAIL AMY SLUTS",
+  botname : process.env.BOT_NAME  || "`HAIL AMY SLUTS`",
+  ownername:process.env.OWNER_NAME|| "`SEXY AMY`",
 
 
   errorChat : process.env.ERROR_CHAT || "",
